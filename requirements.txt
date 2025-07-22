@@ -1,0 +1,6 @@
+# Installed packages
+pip install SpeechRecognition
+pip install wikipedia
+pip install openai
+pip install pyttsx3
+pip install requests
